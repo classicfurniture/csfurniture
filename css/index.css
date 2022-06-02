@@ -1,0 +1,226 @@
+#home_component {
+    text-align: center;
+}
+
+#home_component #header {
+    padding: 4rem 0;
+    background-color: #fffd24;
+    color: #000000;
+}
+
+#home_component #header h1 {
+    font-weight: bold;
+    font-size: 2.6rem;
+    letter-spacing: -.4px;
+}
+
+#home_component #header p {
+    margin-bottom: 2.8rem;
+    margin-top: 1rem;
+    font-size: 1.36rem;
+    letter-spacing: -.2px;
+    line-height: 1.8rem;
+}
+
+#home_component #header #enquirenow {
+    background: #000000;
+    color: #fffd24;
+    font-weight: bold;
+    padding: 1rem 1.5rem;
+    border-radius: 6px;
+    text-decoration: none;
+    font-size: 1.1rem;
+}
+
+#home_component #our_products_list {
+    background-color: #e5e5e5;
+    color: #000000;
+    padding: 4rem 0;
+}
+
+#home_component #our_products_list h1 {
+    font-weight: bold;
+    letter-spacing: -.4px;
+}
+
+#home_component #our_products_list #products {
+    margin-top: 2rem;
+}
+
+#home_component #our_products_list #products #icon {
+    font-size: 3.5rem;
+}
+
+#why_to_choose_us {
+    background-color: #fffd24;
+    padding: 4rem 0;
+}
+
+#why_to_choose_us h1 {
+    font-weight: bold;
+    letter-spacing: -.4px;
+}
+
+#why_to_choose_us p {
+    font-size: 1.36rem;
+    letter-spacing: -.2px;
+    line-height: 1.8rem;
+    margin-top: 1rem;
+    text-align: left;
+}
+
+#some_products {
+    background-color: #e5e5e5;
+    padding: 4rem 0;
+}
+
+#some_products h1 {
+    font-weight: bold;
+    letter-spacing: -.4px;
+    margin-bottom: -1.5rem;
+}
+
+#location {
+    background-color: #fffd24;
+    padding: 4rem 0;
+}
+
+#location h1 {
+    font-weight: bold;
+    letter-spacing: -.4px;
+    margin-bottom: -1.5rem;
+}
+
+#footer {
+    background-color: #000000;
+    color: #ffffff;
+    padding: 4rem 0;
+}
+
+#footer #footer_top {
+    margin-bottom: 2rem;
+}
+
+#footer #footer_top .footer_top {
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+#footer #footer_top #foot_header h2, #footer #footer_top #footer_getintouch_social h2, #footer #footer_top #footer_category h2 {
+    font-size: 2rem;
+    font-weight: bold;
+    letter-spacing: .2px;
+    color: #fffd24;
+}
+
+#footer #footer_top #foot_header #links {
+    margin-top: 1.4rem;
+}
+
+#footer #footer_top #foot_header #links .link {
+    margin-top: .4rem;
+}
+
+#footer #footer_top #foot_header #links .link a {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 1.15rem;
+}
+
+#footer #footer_top #foot_header #links .link a:hover {
+    color: #fffd24;
+    font-weight: bold;
+}
+
+#footer #footer_top #footer_getintouch_social #get_in_touch p {
+    font-size: 1.15rem;
+}
+
+#footer #footer_top #footer_category #category {
+    margin-top: 1.4rem;
+}
+
+#footer #footer_top #footer_category #category .category {
+    margin-top: .4rem;
+}
+
+#footer #footer_top #footer_category #category .category a {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 1.15rem;
+}
+
+#footer #footer_top #footer_category #category .category a:hover {
+    color: #fffd24;
+    font-weight: bold;
+}
+
+#footer #footer_top #footer_getintouch_social #social_media #social_icons {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 2rem;
+}
+
+#footer #footer_top #footer_getintouch_social #social_media #social_icons .icon a {
+    color: #ffffff;
+}
+
+#footer #footer_top #footer_getintouch_social #social_media #social_icons .icon a:hover {
+    font-weight: bold;
+    color: #fffd24;
+}
+
+#footer #footer_copyright {
+    text-align: center;
+}
+
+h1 {
+    font-weight: bold;
+    letter-spacing: -.4px;
+}
+
+#products_section {
+    background-color: #fffd24;
+    padding: 4rem 0;
+    text-align: center;
+}
+
+#contact_form {
+    padding: 4rem 0;
+    background-color: #fffd24;
+    text-align: center;
+}
+
+#contact_form h1 {
+    font-weight: bold;
+    letter-spacing: -.4px;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.categorysection {
+    padding: 4rem 0;
+    background-color: #fffd24;
+    text-align: center;
+}
+
+.categorysection h1 {
+    font-weight: bold;
+    letter-spacing: -.4px;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+#enquire {
+    padding: 4rem 0;
+    background-color: #fffd24;
+    text-align: center;
+}
+
+#enquire h1 {
+    font-weight: bold;
+    letter-spacing: -.4px;
+    text-align: center;
+    margin-bottom: 1rem;
+}
